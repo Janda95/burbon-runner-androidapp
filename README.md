@@ -1,12 +1,12 @@
-# IPSubnet-Android
+# BurbonRunner --- ARCHIVED
 
 ## Summary
 
-This is an Android application made with Google Maps Android API for creating and saving routes for running or general distance calculations.
+This is an Android application using the Google Maps Android API to create and save routes for running or general distance calculations. 
 
 ## Disclaimer
 
-The current version is not on yet on the Google Play app store, and is currently a work in progress, for personal use. If you would like to download and modify this code for personal use, then feel free to fork! PRs are welcome.
+This application is not available on the Google PlayStore and is no longer being updated.
 
 ## Development environment
 
