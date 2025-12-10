@@ -1,9 +1,5 @@
 # IPSubnet-Android
 
-## Master : [![Build Status](https://travis-ci.org/Janda95/BurbenRunner.svg?branch=master)](https://travis-ci.org/Janda95/BurbenRunner)
-
-## Development : [![Build Status](https://travis-ci.org/Janda95/BurbenRunner.svg?branch=dev)](https://travis-ci.org/Janda95/BurbenRunner)
-
 ## Summary
 
 This is an Android application made with Google Maps Android API for creating and saving routes for running or general distance calculations.
