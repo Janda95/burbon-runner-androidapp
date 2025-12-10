@@ -10,12 +10,10 @@ This application is not available on the Google PlayStore and is no longer being
 
 ## Development environment
 
-- OS: Ubuntu 18.04.1 LTS (Bionic Beaver)
+- OS: Ubuntu 18.04.1 LTS
 - AndroidSDK Version: 3.5
 - Minimum Application API: 21 (5.0 Lollipop)
 - Target Application API: 28 (9.0 Pie)
-- Google Java Style Guide
-- Travis CI Testing Integration
 
 ## Devices Tested
 
